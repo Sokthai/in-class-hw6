@@ -1,2 +1,2 @@
 # in-class-hw6
-UML
+https://sokthai.github.io/in-class-hw6/example.html
